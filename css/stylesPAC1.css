@@ -27,6 +27,15 @@ section{
     border-radius: 00.92em;
   }
 
+  .section1{
+    margin: 5px;
+    padding: 15px;
+    min-height: 350px;
+    border-radius: 0.92em;
+    border: 1px solid rgb(141, 116, 4);
+    border-radius: 00.92em;
+  }
+
 ul {
   list-style-type: none;
 }
